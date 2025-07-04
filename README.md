@@ -3,7 +3,7 @@
 **Author**: Mst Sumaya Akter 
 **Department**: Computer Science & Engineering  
 **University**: University of Rajshahi  
-**Course Code**: CSE-4221
+**Course Code**: CSE-4222
 
 ---
 
